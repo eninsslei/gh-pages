@@ -3,7 +3,7 @@
     <title>Eninsslei</title>
     <link href="https://eninsslei.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://eninsslei.github.io/gh-pages" />
-    <updated>2020-04-30T23:11:32+08:00</updated>
+    <updated>2020-04-30T23:23:57+08:00</updated>
     <author>
         <name>eninss</name>
     </author>
@@ -94,6 +94,30 @@
         <id>https://eninsslei.github.io/gh-pages/oa-platform.html</id>
 
         <updated>2020-04-30T23:09:53+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Training App</title>
+        <author>
+            <name>eninss</name>
+        </author>
+        <link href="https://eninsslei.github.io/gh-pages/training-app.html"/>
+        <id>https://eninsslei.github.io/gh-pages/training-app.html</id>
+
+        <updated>2020-04-30T23:17:42+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>V2EX</title>
+        <author>
+            <name>eninss</name>
+        </author>
+        <link href="https://eninsslei.github.io/gh-pages/v2ex-app.html"/>
+        <id>https://eninsslei.github.io/gh-pages/v2ex-app.html</id>
+
+        <updated>2020-04-30T23:19:16+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
