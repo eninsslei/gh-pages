@@ -3,7 +3,7 @@
     <title>Eninsslei</title>
     <link href="https://eninsslei.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://eninsslei.github.io/gh-pages" />
-    <updated>2020-04-30T22:58:37+08:00</updated>
+    <updated>2020-04-30T23:11:32+08:00</updated>
     <author>
         <name>eninss</name>
     </author>
@@ -72,5 +72,29 @@
 </div>
             ]]>
         </content>
+    </entry>
+    <entry>
+        <title>Dgtle App Redesign</title>
+        <author>
+            <name>eninss</name>
+        </author>
+        <link href="https://eninsslei.github.io/gh-pages/dgtle-app-redesign.html"/>
+        <id>https://eninsslei.github.io/gh-pages/dgtle-app-redesign.html</id>
+
+        <updated>2020-04-30T23:11:20+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>OA Platform</title>
+        <author>
+            <name>eninss</name>
+        </author>
+        <link href="https://eninsslei.github.io/gh-pages/oa-platform.html"/>
+        <id>https://eninsslei.github.io/gh-pages/oa-platform.html</id>
+
+        <updated>2020-04-30T23:09:53+08:00</updated>
+            <summary></summary>
+        <content></content>
     </entry>
 </feed>
