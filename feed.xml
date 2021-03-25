@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Eninsslei</title>
+    <title>Eninss Lei</title>
     <link href="https://eninsslei.github.io/gh-pages/feed.xml" rel="self" />
     <link href="https://eninsslei.github.io/gh-pages" />
-    <updated>2021-03-23T17:22:19+08:00</updated>
+    <updated>2021-03-25T15:55:18+08:00</updated>
     <author>
         <name>eninss</name>
     </author>
     <id>https://eninsslei.github.io/gh-pages</id>
 
     <entry>
-        <title>Jiqun Mange Platform</title>
+        <title>B端管理App</title>
         <author>
             <name>eninss</name>
         </author>
@@ -38,7 +38,7 @@
         </content>
     </entry>
     <entry>
-        <title>Haier Store</title>
+        <title>乐童优选</title>
         <author>
             <name>eninss</name>
         </author>
@@ -74,26 +74,38 @@
         </content>
     </entry>
     <entry>
-        <title>LINKEDIN REDESIGN</title>
+        <title>大剧院网站页面设计</title>
+        <author>
+            <name>eninss</name>
+        </author>
+        <link href="https://eninsslei.github.io/gh-pages/da-ju-yuan-wang-zhan-ye-mian-she-ji.html"/>
+        <id>https://eninsslei.github.io/gh-pages/da-ju-yuan-wang-zhan-ye-mian-she-ji.html</id>
+
+        <updated>2021-03-25T14:03:42+08:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+    <entry>
+        <title>Linkedin Redesign</title>
         <author>
             <name>eninss</name>
         </author>
         <link href="https://eninsslei.github.io/gh-pages/linkedin-redesign.html"/>
         <id>https://eninsslei.github.io/gh-pages/linkedin-redesign.html</id>
 
-        <updated>2021-03-23T17:21:11+08:00</updated>
+        <updated>2021-03-25T14:04:48+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>DAILY YOGA REDESIGN</title>
+        <title>每日瑜伽首页Redesign</title>
         <author>
             <name>eninss</name>
         </author>
         <link href="https://eninsslei.github.io/gh-pages/mei-ri-yu-jia-app-redesign.html"/>
         <id>https://eninsslei.github.io/gh-pages/mei-ri-yu-jia-app-redesign.html</id>
 
-        <updated>2021-03-23T16:11:17+08:00</updated>
+        <updated>2021-03-25T14:05:16+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
@@ -105,26 +117,26 @@
         </content>
     </entry>
     <entry>
-        <title>E-COMMERCE APP</title>
+        <title>电商平台App</title>
         <author>
             <name>eninss</name>
         </author>
         <link href="https://eninsslei.github.io/gh-pages/e-commerce-app.html"/>
         <id>https://eninsslei.github.io/gh-pages/e-commerce-app.html</id>
 
-        <updated>2021-03-23T14:39:15+08:00</updated>
+        <updated>2021-03-25T14:05:36+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
     <entry>
-        <title>USED CAR BUYING WEBSITE</title>
+        <title>二手车服务网站</title>
         <author>
             <name>eninss</name>
         </author>
         <link href="https://eninsslei.github.io/gh-pages/used-car-buying-website.html"/>
         <id>https://eninsslei.github.io/gh-pages/used-car-buying-website.html</id>
 
-        <updated>2021-03-23T11:25:55+08:00</updated>
+        <updated>2021-03-25T14:05:52+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://eninsslei.github.io/gh-pages/media/posts/22/Qi-Che-Gou-Mai-Ping-Tai-3x.png" alt="" />
@@ -142,14 +154,14 @@
         </content>
     </entry>
     <entry>
-        <title>Dgtle App Redesign</title>
+        <title>数字尾巴Redesign</title>
         <author>
             <name>eninss</name>
         </author>
         <link href="https://eninsslei.github.io/gh-pages/dgtle-app-redesign.html"/>
         <id>https://eninsslei.github.io/gh-pages/dgtle-app-redesign.html</id>
 
-        <updated>2020-04-30T23:11:20+08:00</updated>
+        <updated>2021-03-25T14:06:23+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
@@ -166,26 +178,14 @@
         <content></content>
     </entry>
     <entry>
-        <title>Training App</title>
+        <title>在线培训App</title>
         <author>
             <name>eninss</name>
         </author>
         <link href="https://eninsslei.github.io/gh-pages/training-app.html"/>
         <id>https://eninsslei.github.io/gh-pages/training-app.html</id>
 
-        <updated>2020-04-30T23:17:42+08:00</updated>
-            <summary></summary>
-        <content></content>
-    </entry>
-    <entry>
-        <title>V2EX</title>
-        <author>
-            <name>eninss</name>
-        </author>
-        <link href="https://eninsslei.github.io/gh-pages/v2ex-app.html"/>
-        <id>https://eninsslei.github.io/gh-pages/v2ex-app.html</id>
-
-        <updated>2020-04-30T23:19:16+08:00</updated>
+        <updated>2021-03-25T14:06:14+08:00</updated>
             <summary></summary>
         <content></content>
     </entry>
