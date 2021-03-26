@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Eninss Lei",
+    "title": "EninssDesign",
     "description": "",
     "home_page_url": "https://eninsslei.github.io/gh-pages",
     "feed_url": "https://eninsslei.github.io/gh-pages/feed.json",
     "user_comment": "",
+    "icon": "https://eninsslei.github.io/gh-pages/media/website/Ding-Bu-Tu-Biao.svg",
     "author": {
         "name": "eninss"
     },
